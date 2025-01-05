@@ -1,4 +1,3 @@
-```markdown
 # RESTful API with Go and Gin
 
 🚀 **Tutorial Source Code**  
@@ -165,7 +164,6 @@ Jika Anda ingin menambahkan fitur atau menemukan bug, silakan ajukan **Pull Requ
 ---
 
 ### ⭐ Jangan lupa beri bintang pada repo ini jika Anda merasa terbantu! ⭐
-```
 
 ### Penyesuaian
 - Bagian `rest.http` diperbarui untuk menggunakan variabel `@base_url`.
