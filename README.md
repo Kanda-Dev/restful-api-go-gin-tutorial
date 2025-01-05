@@ -1,5 +1,3 @@
-Berikut adalah revisi lengkap dari `README.md` dengan menyertakan file `rest.http` yang menggunakan `@base_url`:  
-
 ```markdown
 # RESTful API with Go and Gin
 
